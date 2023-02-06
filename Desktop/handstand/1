@@ -1,0 +1,3 @@
+pybullet build time: Jan  8 2023 21:04:38
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+expected a world element, continuing without it.
